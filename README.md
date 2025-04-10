@@ -51,7 +51,7 @@ For integration or development inquiries, reach out to the sKSH token issuer via
 
 ---
 
-## 💰 Tokenomics: Sizland Token (SZN)
+## 💰 Tokenomics: SuiKenyaShilling Token (SKSH)
 
 **Total Supply**: 100,000,000 SKSH
 
